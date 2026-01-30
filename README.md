@@ -20,3 +20,12 @@ Voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
 ## Contact sur linkedin
 Pour toute demande ou collaboration :  
 **Ilyes Hamdane**
+
+## Accès aux supports de formation
+
+Les supports complets de la formation (slides et projet de fin de formation) sont disponibles via le lien ci-dessous :
+
+https://drive.google.com/drive/folders/1SNuM_r7T47FILIhZLj4b9Cj6FiOcI-Hb?usp=sharing
+
+Contenu diffusé sous licence **CC BY-NC-ND 4.0**.
+Toute utilisation académique institutionnelle, professionnelle ou commerciale est soumise à licence.
