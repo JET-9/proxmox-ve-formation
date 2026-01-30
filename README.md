@@ -19,7 +19,7 @@ Voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
 
 ## Contact sur linkedin
 Pour toute demande ou collaboration :  
-**Ilyes Hamdane**
+**Ilyes Hamdane** : https://www.linkedin.com/in/ilyes-h-20b506213/
 
 ## Accès aux supports de formation
 
